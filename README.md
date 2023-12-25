@@ -25,7 +25,7 @@ You can find my Code4rena profile [here](https://code4rena.com/@osmanozdemir1).
 | [Allo V2](https://audits.sherlock.xyz/contests/109) | 1 H, 6 M | #21 | Sherlock | 
 | [Wildcat Protocol](https://code4rena.com/audits/2023-10-the-wildcat-protocol#top) | 2 H, 1 M, 2L | #11 | Code4rena | 
 | [Kelp DAO / rsETH ](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) | 2 H, 1 M, 5L | #38 | Code4rena | 
-| [Canto Application Specific Dollars and Bonding Curves for 1155s](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | 1 H, 1 M, 4L | #11 (_sharing 10_) | Code4rena | 
+| [Canto Application Specific Dollars and Bonding Curves for 1155s](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | 1 H, 1 M, 4L | #11 (_sharing 9 & 10_) | Code4rena | 
 
 
 ## Findings
