@@ -1,12 +1,14 @@
 # osmanozdemir1's Audit Portfolio
 
-Some of my findings in public contests can be found here.
+Some of my findings in public contests can be found in this repository.
 
 ## About
 
 I'm an independent security researcher who has an interest in smart contract audits. 
 
-I have been participating in public audit contests on [Code4rena](https://code4rena.com/) and [Sherlock](https://audits.sherlock.xyz/contests) since June 2023. I got several top 3, top 5 and top 10 results in this last 6 months (at the time this repository is created). 
+I have been participating in public audit contests on [Code4rena](https://code4rena.com/) and [Sherlock](https://audits.sherlock.xyz/contests) since June 2023. 
+
+Over the past six months (at the time of creating this repository), I achieved numerous top 3, top 5, and top 10 results, with several of my submissions being selected for inclusion in the final report.
 
 You can find my Code4rena profile [here](https://code4rena.com/@osmanozdemir1).
 
