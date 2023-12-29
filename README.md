@@ -19,13 +19,14 @@ You can find my Code4rena profile [here](https://code4rena.com/@osmanozdemir1).
 | Contest | Findings | Ranking | Platform |
 |--|:--:|--|:--:|
 | [Dodo V3](https://audits.sherlock.xyz/contests/89) | 2 H | #5 | Sherlock |
-| [Chainlink Cross-Chain Contract Administration: Multi-signature Contract, Timelock and Call Proxies Contest](https://code4rena.com/audits/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top) | Non-public | #3 (_sharing 2_) | Code4rena |
-| [Arcade](https://code4rena.com/audits/2023-07-arcadexyz#top) | 1 M | #6 (_sharing 5_) | Code4rena |
+| [Chainlink Cross-Chain Contract Administration: Multi-signature Contract, Timelock and Call Proxies Contest](https://code4rena.com/audits/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top) | Non-public | #3 _(joint 2nd)_ | Code4rena |
+| [Dinari](https://audits.sherlock.xyz/contests/98) | 1 M | #9 | Sherlock |
+| [Arcade](https://code4rena.com/audits/2023-07-arcadexyz#top) | 1 M | #6 _(joint 5th)_ | Code4rena |
 | [Good Entry](https://code4rena.com/audits/2023-07-arcadexyz#top) | 1 H, 2 L | #14 | Code4rena |
 | [Allo V2](https://audits.sherlock.xyz/contests/109) | 1 H, 6 M | #21 | Sherlock | 
 | [Wildcat Protocol](https://code4rena.com/audits/2023-10-the-wildcat-protocol#top) | 2 H, 1 M, 2L | #11 | Code4rena | 
 | [Kelp DAO / rsETH ](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) | 2 H, 1 M, 5L | #38 | Code4rena | 
-| [Canto Application Specific Dollars and Bonding Curves for 1155s](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | 1 H, 1 M, 4L | #11 (_sharing 9 & 10_) | Code4rena | 
+| [Canto Application Specific Dollars and Bonding Curves for 1155s](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | 1 H, 1 M, 4L | #11 _(joint 9th)_ | Code4rena | 
 
 
 ## Findings
@@ -36,6 +37,11 @@ You can find my Code4rena profile [here](https://code4rena.com/@osmanozdemir1).
 | [Anyone can sell other users' tokens as `fromToken`, and get the `toToken`'s themselves due to `decodeData.payer` is never checked](/sherlock/dodoV3/001-H.md).| High | Input validation | Leveraged Market Making | Sherlock |
 | [`_poolRepayAll()` function updates the state incorrectly, which might cause the vault to be exploited](/sherlock/dodoV3/002-H.md). | High | Incorrect state handling | Leveraged Market Making | Sherlock |
 
+### Dinari Contest (July 2023)
+
+| Vulnerability | Severity | Vulnerability Type | Protocol Type | Platform |
+| - | :-: | - | - | - |
+| [Canceled order refunds should be sent to the `requester`, not the `recipient`](/sherlock/dinari/001-M.md).| Medium | Loss of funds | Real world asset | Sherlock |
 
 ### Arcade.xyz Contest (July 2023)
 
