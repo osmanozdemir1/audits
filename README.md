@@ -74,7 +74,7 @@ You can find my Code4rena profile [here](https://code4rena.com/@osmanozdemir1).
 
 ### Wildcat Protocol Contest (October 2023)
 
-**Note:** Findings H-01 and M-01 below are selected for the final report.
+- **Note:** Findings H-01 and M-01 below are selected for the final report.
 
 | Vulnerability | Severity | Vulnerability Type | Protocol Type | Platform |
 | - | :-: | - | - | - |
@@ -87,7 +87,7 @@ You can find my Code4rena profile [here](https://code4rena.com/@osmanozdemir1).
 
 
 ### Kelp DAO Contest (November 2023)
-This contest had 3 High and 2 Medium findings. I found 2 of the 3 Highs and 1 of the 2 mediums.
+ - This contest had 3 High and 2 Medium findings. I found 2 of the 3 Highs and 1 of the 2 mediums.
 
 | Vulnerability | Severity | Vulnerability Type | Protocol Type | Platform |
 | - | :-: | - | - | - |
@@ -104,7 +104,7 @@ QA Report with Low and NC findings can be found [here](/code4rena/KelpDao/QArepo
 
 
 ### Canto Application Specific Dollar contest (November 2023)
-This contest 1 High and 2 Medium severity findings. I found 1/1 High and 1/2 Mediums.
+- This contest 1 High and 2 Medium severity findings. I found 1/1 High and 1/2 Mediums.
 
 | Vulnerability | Severity | Vulnerability Type | Protocol Type | Platform |
 | - | :-: | - | - | - |
