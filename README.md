@@ -27,7 +27,8 @@ You can find my Code4rena profile [here](https://code4rena.com/@osmanozdemir1).
 | [Wildcat Protocol](https://code4rena.com/audits/2023-10-the-wildcat-protocol#top) | 2 H, 1 M, 2L | #11 | Code4rena | 
 | [Kelp DAO / rsETH ](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) | 2 H, 1 M, 5L | #38 | Code4rena | 
 | [Canto Application Specific Dollars and Bonding Curves for 1155s](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | 1 H, 1 M, 4L | #9 _(joint)_ | Code4rena | 
-| [Panoptic](https://code4rena.com/audits/2023-11-panoptic) | Not yet public | #8 | Code4rena | 
+| [Panoptic](https://code4rena.com/audits/2023-11-panoptic) | 1 H (Report not yet public) | #8 | Code4rena | 
+| [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top) | 2 H, 3 M (Report not yet public) | #7 | Code4rena | 
 
 
 ## Findings
