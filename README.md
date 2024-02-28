@@ -29,6 +29,7 @@ You can find my Code4rena profile [here](https://code4rena.com/@osmanozdemir1).
 | [Canto Application Specific Dollars and Bonding Curves for 1155s](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top) | 1 H, 1 M, 4L | #9 _(joint)_ | Code4rena | 
 | [Panoptic](https://code4rena.com/audits/2023-11-panoptic) | 1 H (Report not yet public) | #8 | Code4rena | 
 | [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top) | 2 H, 3 M (Report not yet public) | #7 | Code4rena | 
+| [Ubiquity](https://audits.sherlock.xyz/contests/138) | 1 M (Report will be added) | #4 | Sherlock | 
 
 
 ## Findings
