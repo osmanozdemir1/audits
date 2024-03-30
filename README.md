@@ -20,7 +20,7 @@ You can find my Code4rena profile [here](https://code4rena.com/@osmanozdemir1).
 |--|:--:|--|:--:|
 | [Dodo V3](https://audits.sherlock.xyz/contests/89) | 2 H | #5 | Sherlock |
 | [Chainlink Cross-Chain Contract Administration: Multi-signature Contract, Timelock and Call Proxies Contest](https://code4rena.com/audits/2023-07-chainlink-cross-chain-contract-administration-multi-signature-contract-timelock-and-call-proxies#top) | Non-public | #2 _(joint)_ | Code4rena |
-| [Dinari](https://audits.sherlock.xyz/contests/98) | 1 M | #9 | Sherlock |
+| [Dinari](https://audits.sherlock.xyz/contests/98) | 1 M | #10 | Sherlock |
 | [Arcade](https://code4rena.com/audits/2023-07-arcadexyz#top) | 1 M | #5 _(joint)_ | Code4rena |
 | [Good Entry](https://code4rena.com/audits/2023-07-arcadexyz#top) | 1 H, 2 L | #14 | Code4rena |
 | [Allo V2](https://audits.sherlock.xyz/contests/109) | 1 H, 6 M | #21 | Sherlock | 
